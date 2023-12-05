@@ -15,6 +15,7 @@ public class App
         System.out.println(sayHelloToSomeone("Hello"));
         System.out.println(sayHelloToSomeone("Steve"));
         System.out.println(sayHelloToSomeone("is it me your looking forrrr :)"));
+        System.out.println(sayHelloToSomeone("webhook test"));
         System.out.println(sayGoodbye());
     }
 
